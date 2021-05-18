@@ -1,6 +1,6 @@
 // Requirement variables
 const fs= require('fs');
-const inquire = require('inquirer');
+const inquirer = require('inquirer');
 
 const ManagerExport = require("./lib/manager");
 const EngineerExport = require("./lib/engineer");
