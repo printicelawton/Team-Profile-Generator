@@ -32,6 +32,10 @@ const questions = [
         message: 'What is the ID# of the person you would like to add to the roster?',
         name: 'personID',
         validate: validateAnswer 
+    },
+    {
+        type: 'input',
+        message: 'If this person is a'
     }
     ];
 
