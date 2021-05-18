@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator Project",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/printicelawton/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Printice Lawton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/printicelawton/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/printicelawton/Team-Profile-Generator#readme"
+}
