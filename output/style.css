@@ -1,6 +1,12 @@
 body {
-    background-color:#d63c60;
+    background-color:#6f94e3;
 }
 
-.jumbotron {
+.jumbotronb {
     background-color: transparent;
+    font-size:x-large
+}
+
+.container {
+    padding-top: 10%;
+}
